@@ -209,7 +209,7 @@ Positive coefficients indicate features that push predictions toward the phishin
 Random Forest feature importance was also analyzed to identify influential features.
 
 ## Project Structure
-
+```bash
 phishing-email-detection-ml/
 ├── data/
 │   ├── raw/
@@ -246,7 +246,7 @@ phishing-email-detection-ml/
 ├── src/
 ├── .gitignore
 └── README.md
-
+```
 ## Technologies Used
 
 - Python
