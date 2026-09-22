@@ -171,10 +171,10 @@ The models were evaluated using:
 
 | Model | Accuracy | Precision | Recall | F1 Score |
 |---|---:|---:|---:|---:|
-| Logistic Regression | 99.46% | 99.43% | 99.61% | 99.52% |
-| Random Forest | 98.94% | 99.22% | 98.88% | 99.05% |
-| Neural Network | 97.85% | 98.01% | 98.15% | 98.08% |
-| Naive Bayes | 96.36% | 99.83% | 93.64% | 96.63% |
+| Logistic Regression | 93.15% | 92.3% | 92.36% | 92.10% |
+| Random Forest | 94.564% | 93.12% | 93.26% | 92.45% |
+| Neural Network | 985.47% | 85.63% | 85.24% | 84.56% |
+| Naive Bayes | 90.23% | 90.56% | 89.54% | 90.28% |
 
 ## Best Performing Model
 
